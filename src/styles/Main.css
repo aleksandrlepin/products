@@ -1,0 +1,46 @@
+a {
+  margin-left: 1rem; }
+
+h4 {
+  text-align: center; }
+
+.valign {
+  display: flex;
+  align-items: center; }
+
+.nav-link--active {
+  background-color: rgba(0, 0, 0, 0.1); }
+
+.card_title--custom {
+  /* color: red!important; */
+  text-shadow: 0 0 10px #2e11ad, 0 5px 10px #2f00ff, -5px 0 10px #2f00ff; }
+
+.div {
+  background-color: lightgreen;
+  width: 500px;
+  height: 500px; }
+
+.App {
+  text-align: center; }
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px; }
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white; }
+
+.App-title {
+  font-size: 1.5em; }
+
+.App-intro {
+  font-size: large; }
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg); }
+  to {
+    transform: rotate(360deg); } }
